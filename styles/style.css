@@ -25,6 +25,9 @@
   #root, #__next {
     isolation: isolate;
   }
+  body{
+    background-color: black;
+  }
 
   .container {
     max-width: 1310px;
